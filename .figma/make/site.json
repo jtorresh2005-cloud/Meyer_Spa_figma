@@ -1,0 +1,10 @@
+{
+  "description": "Designed for spa clients, this web app offers personalized appointment management, exclusive promotions, and a community feed to enhance wellness engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
